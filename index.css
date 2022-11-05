@@ -3,6 +3,6 @@ body {
 }
 #board {
     background-color: rgba(227, 142, 235, 0.5);
-    height: 50%;
-    width: 50%;
+    height: 50px;
+    width: 50px;
 }
